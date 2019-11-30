@@ -6,10 +6,10 @@ import java.net.URL;
 
 public class Readline {
     public static void main(String[] args) throws IOException {
-        //        String str1 = readBuffer("D:\\Java-nang-cao\\learning-java\\resources\\ca-dao.txt");
+        //        String str1 = readBuffer("D:\java_nangcao\hau-thanh\src\learning\io\cadao.txtsss");
 //        System.out.println(str1);
 //
-//        String str2 = readBuffer("D:\\Java-nang-cao\\learning-java\\resources\\cadao.txt");
+//        String str2 = readBuffer("D:\java_nangcao\hau-thanh\src\learning\io\cadao.txt");
 //        System.out.println(str2);
 
 
